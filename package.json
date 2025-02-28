@@ -1,0 +1,24 @@
+{
+  "name": "trjean",
+  "version": "1.0.0",
+  "description": "CRUD de Estudiantes en Consola (JavaScript)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanvergez/crud-estudiantes-js.git"
+  },
+  "author": "Jean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanvergez/crud-estudiantes-js/issues"
+  },
+  "homepage": "https://github.com/jeanvergez/crud-estudiantes-js#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
